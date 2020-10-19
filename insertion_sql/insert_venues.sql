@@ -1,0 +1,16 @@
+insert into VENUES (venue_id, venue_name, country, city) values (1, 'Memphis Chess Club', 'USA', 'Memphis, TN');
+insert into VENUES (venue_id, venue_name, country, city) values (2, 'Hippies Chess Palace', 'USA', 'Los Angeles, CA');
+insert into VENUES (venue_id, venue_name, country, city) values (3, 'Trump Tower Chess Hustlers', 'USA', 'New York City, NY');
+insert into VENUES (venue_id, venue_name, country, city) values (4, 'Beis Hamikdash Gaming Center', 'Israel', 'Jerusalem');
+insert into VENUES (venue_id, venue_name, country, city) values (5, 'So Cool Bro Shahmat', 'Israel', 'Jerusalem');
+insert into VENUES (venue_id, venue_name, country, city) values (6, 'On The Shore Chess', 'Israel', 'Tel Aviv');
+insert into VENUES (venue_id, venue_name, country, city) values (7, 'On The Shore Chess', 'Israel', 'Netanya');
+insert into VENUES (venue_id, venue_name, country, city) values (8, 'More Chess Hustlers Center', 'USA', 'New York City, NY');
+insert into VENUES (venue_id, venue_name, country, city) values (9, 'All Aboot Chess Club', 'Canada', 'Toronto, ON');
+insert into VENUES (venue_id, venue_name, country, city) values (10, 'Shlomo Eli Chess Emporium', 'Canada', 'Hamilton, ON');
+insert into VENUES (venue_id, venue_name, country, city) values (11, 'Jonahs Chess and Programming Center', 'USA', 'Denver, CO');
+insert into VENUES (venue_id, venue_name, country, city) values (12, 'Binyamin Chess Club', 'UK', 'London');
+insert into VENUES (venue_id, venue_name, country, city) values (13, 'La Chess Club', 'Spain', 'Madrid');
+insert into VENUES (venue_id, venue_name, country, city) values (14, 'La Baguette Chess', 'France', 'Paris');
+insert into VENUES (venue_id, venue_name, country, city) values (15, 'United Chess Comrads of Russia', 'Russia', 'Moscow');
+insert into VENUES (venue_id, venue_name, country, city) values (16, 'The People''s Glorious Chess Club', 'North Korea', 'Pyong-Yang');
